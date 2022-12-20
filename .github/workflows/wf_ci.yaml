@@ -3,7 +3,7 @@ name: github action hol 1
 on:
   push:
     branches:
-      - feature/gh-act-hol1
+      - features/gh-act-hol1
     
 jobs:
   install:
